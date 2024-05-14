@@ -1,15 +1,17 @@
-# Who
-## Kelsey Comstock
+# Hi
 
-# What
+###### Who
+# Kelsey Comstock
+
+###### What
 - Technologist
 - Time Series Data Nerd
 
-# Where
+###### Where
 - Montreal lately
 
-# When
+###### When
 - Still kicking in May 2024
 
-# How
+###### How
 - With great curiosity.
