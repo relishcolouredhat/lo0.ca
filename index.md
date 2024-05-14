@@ -4,6 +4,7 @@
 <style>
     .friendly-title {
         text-align: center;
+        font-size: 3em;
         color: #1956AF;
         border-radius: 10px;
         background-color: #E1EDFF;
