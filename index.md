@@ -2,7 +2,7 @@
 
 ###### Who
 <style>
-    .sample {
+    .friendly-title {
         text-align: center;
         color: #1956AF;
         border-radius: 10px;
@@ -12,8 +12,8 @@
         margin-bottom: 20px;
     }
 </style>
-:::sample
-# Kelsey Comstock
+:::friendly-title
+Kelsey Comstock
 :::
 
 ###### What
