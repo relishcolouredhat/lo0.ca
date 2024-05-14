@@ -1,19 +1,8 @@
 # Hi
 
 ###### Who
-<style>
-    .friendly-title {
-        text-align: center;
-        font-size: 3em;
-        color: #1956AF;
-        border-radius: 10px;
-        background-color: #E1EDFF;
-        border: 1px solid #1956AF;
-        padding-top: 20px;
-        margin-bottom: 20px;
-    }
-</style>
-:::friendly-title
+
+:::banner-title
 Kelsey Comstock
 :::
 
