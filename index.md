@@ -1,3 +1,6 @@
+---
+label: Home
+---
 # Hi
 
 ###### Who
