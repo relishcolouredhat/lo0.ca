@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lo0.ca/sitemap.xml.gz
