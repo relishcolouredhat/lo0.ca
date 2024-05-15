@@ -9,17 +9,18 @@
     <generator>https://retype.com</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://lo0.ca/blog/feed.xml" />
     <item>
-      <title>First1111</title>
-      <guid isPermaLink="true">https://lo0.ca/blog/first1111/index.html</guid>
-      <description>A complicated test post</description>
-      <author>k@lo0.ca (klc)</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Testpost2</title>
       <guid isPermaLink="true">https://lo0.ca/blog/testpost2/index.html</guid>
       <description>Another test post</description>
       <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>This post is for testing.</title>
+      <guid isPermaLink="true">https://lo0.ca/blog/first1111/index.html</guid>
+      <description>A complicated test post</description>
+      <author>k@lo0.ca (klc)</author>
+      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
+      <category domain="https://lo0.ca/categories/testing/">testing</category>
     </item>
   </channel>
 </rss>
