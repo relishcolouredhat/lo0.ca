@@ -4,9 +4,9 @@ url: lo0.ca
 branding:
   title: Kelsey Comstock
   label: klc
-links:
-- text: Retype Foo
-  link: https://retype.com/guides/getting-started/
+# links:
+# - text: Retype Foo
+#   link: https://retype.com/guides/getting-started/
 
 footer:
   copyright: "Hi."
