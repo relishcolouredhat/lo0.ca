@@ -6,6 +6,6 @@ tags:
 layout: blog
 author: 
   name: klc
-  author: k@lo0.ca
+  email: k@lo0.ca
 ---
 A test post
