@@ -8,4 +8,4 @@ author:
   name: klc
   email: k@lo0.ca
 ---
-A test post
+This is the contents of a test post.
