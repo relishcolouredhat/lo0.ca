@@ -1,0 +1,1 @@
+window.__DOCS_SEARCH__ = [[{"l":"Hi"},{"l":"Who","p":["Kelsey Comstock"]},{"l":"What","p":["Technologist","Time Series Data Nerd"]},{"l":"Where","p":["Montreal lately"]},{"l":"When","p":["Still kicking in May 2024"]},{"l":"How","p":["With great curiosity."]}],[],[],[],[],[]];
