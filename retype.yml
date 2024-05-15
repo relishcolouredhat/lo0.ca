@@ -4,9 +4,10 @@ url: lo0.ca
 branding:
   title: Kelsey Comstock
   label: klc
-# links:
-# - text: Retype Foo
-#   link: https://retype.com/guides/getting-started/
+links:
+- text: KC Grafana
+  link: http://kc.grafana.net
+  target: self # open in frame
 
 footer:
   copyright: "Hi."
