@@ -1,4 +1,4 @@
-a,b
-foo,5
-bar,5
-baz,5
+a,b,c,d
+foo,bar,baz,10
+foo,baar,z,10
+bar,baar,z,20
