@@ -1,0 +1,2 @@
+- https://www.timestored.com/data/files/ssrn-id4342004-2-benchmarking-databases.pdf
+- https://www.timestored.com/data/files/2022-06-08-scits-scientific-time-series-benchmark.pdf
