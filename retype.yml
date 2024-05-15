@@ -7,7 +7,7 @@ branding:
 links:
 - text: KC Grafana
   link: http://kc.grafana.net
-  target: self # open in frame
+  target: top
 
 footer:
   copyright: "Hi."
