@@ -2,11 +2,29 @@ input: .
 output: .
 url: lo0.ca # Add your website address here
 branding:
-  title: lo0.ca
+  title: Kelsey Comstock
   label: klc
 links:
 - text: Retype Foo
   link: https://retype.com/guides/getting-started/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
-# ???
+    # links:
+    #   - text: foo
+    #     link: bar
+include:
+  - "*.csv"
+  - "*.json"
+  - "*.py"
+  - "*.iflp"
+  - "**/s/**"
+
+search:
+  preload: true
+
+generator:
+  directoryIndex:
+    append: true
+
+edit:
+  repo: https://github.com/relishcolouredhat/lo0.ca
