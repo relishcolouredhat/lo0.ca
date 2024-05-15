@@ -34,5 +34,4 @@ edit:
 
 integrations:
   plausible:
-    enabled: true
     domain: lo0.ca
