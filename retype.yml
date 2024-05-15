@@ -30,3 +30,7 @@ generator:
 
 edit:
   repo: https://github.com/relishcolouredhat/lo0.ca
+
+integrations:
+  plausible:
+    domain: lo0.ca
