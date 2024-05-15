@@ -1,5 +1,6 @@
 ---
 label: Home
+order: 100
 ---
 # Hi
 
