@@ -5,9 +5,14 @@ branding:
   title: Kelsey Comstock
   label: klc
 links:
+- text: Who Am I & Reference Stuff
+  link: http://lo0.ca/hi.md
+  target: docs-content
+  
 - text: KC Grafana
   link: http://kc.grafana.net
   target: docs-content
+
 
 footer:
   copyright: "Hi."
