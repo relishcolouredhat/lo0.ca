@@ -10,6 +10,7 @@ layout: blog
 author: 
   name: klc
   email: k@lo0.ca
+expanded: true
 ---
 # So you want to run a command in a docker container.
 I needed to reset my password on `emqx` within my `Home Assistant` setup.
