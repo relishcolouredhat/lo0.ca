@@ -1,6 +1,7 @@
 ---
 label: Home
 order: 100
+redirect: https://lo0.ca/blog
 ---
 # Hi
 
