@@ -1,5 +1,5 @@
 ---
-label: posts
+label: The Telemeterist
 order: 1000
 ---
 ## The Telemeterist
