@@ -1,0 +1,17 @@
+﻿# Index
+
+- [Hi](https://lo0.ca/hi.md): Kelsey Comstock
+
+## Grafanas
+
+- [Grafana Embed Test](https://lo0.ca/grafanas/embed-test.md)
+
+## References
+
+- [Tsdb benchmarks](https://lo0.ca/references/tsdb-benchmarks.md): https://www.timestored.com/data/files/ssrn-id4342004-2-benchmarking-databases.pdf
+- [Test](https://lo0.ca/test/test.md): a test test page
+
+## posts
+
+- [The Telemeterist](https://lo0.ca/blog/blog.md): Musings and Notes about Tinkering, DevOps, and Data Analytics.
+- [So you want to run a command in a docker container.](https://lo0.ca/blog/ez_docker_prompt.md): Easy/Lazy bash prompt from an uambiguous docker container

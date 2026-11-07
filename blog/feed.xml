@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>posts</title>
+    <title>Kelsey Comstock The Telemeterist</title>
     <link>https://lo0.ca/blog/</link>
-    <description>Musings and Notes about Tinkering, DevOps, and Data Analytics.</description>
     <copyright>Hi.</copyright>
     <lastBuildDate>Sat, 13 Jul 2024 00:00:00 GMT</lastBuildDate>
-    <generator>https://retype.com</generator>
+    <generator>Retype 4.6.0</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://lo0.ca/blog/feed.xml" />
     <item>
       <title>So you want to run a command in a docker container.</title>
